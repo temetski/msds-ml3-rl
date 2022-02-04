@@ -7,7 +7,7 @@ Reinforcement learning notebooks for AIM's MSDS ML3 Course Special Topics 1: Int
  - [01_Q-Learning.ipynb](./01_Q-Learning.ipynb)
  - [02_Deep_Q-Learning.ipynb](./02_Deep_Q-Learning.ipynb)
  
- In Part I of this lecture, we discuss Q-Learning using the [`Taxi-v3`](https://gym.openai.com/envs/Taxi-v3/) problem. Afterwards in Part II, we use a fully-connected neural network as our Deep-Q-Network using the [LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2/) environment.
+ In Part I of this lecture, we discuss Q-Learning using the [`Taxi-v3`](https://gym.openai.com/envs/Taxi-v3/) problem. Afterwards in Part II, we use a fully-connected neural network as our Deep-Q-Network using the [`LunarLander-v2`](https://gym.openai.com/envs/LunarLander-v2/) environment.
 
 ## Environment setup
 
