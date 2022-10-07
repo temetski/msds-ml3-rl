@@ -3,19 +3,16 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - matplotlib=3.3.4
-  - numpy=1.19.5
-  - pandas=1.1.5
-  - python=3.6.12
+  - matplotlib=3.5
+  - numpy=1.22
+  - pandas=1.4
+  - python=3.10
   - ipykernel=5.5.5
   - scikit-learn=0.24.2
   - seaborn=0.11.2
-  - pip=21.3.1
-  - scipy=1.5.3
-  - notebook=6.3.0
   - swig=4.0.2
+  - torch=1.12
   - pip:
-    - pyglet==1.5.21
-    - gym[Box_2D]==0.21.0
-    - tensorflow==2.6.2
-    - box2d==2.3.10
+    - gym[Box_2D]==0.26.2
+    - tensorflow==2.9
+    - box2d==2.3.5
